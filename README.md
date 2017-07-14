@@ -1,6 +1,6 @@
 # ppt_templates
 
 # colors:
-http://javier.xyz/cohesive-colors/
-http://www.colourco.de/
+#### http://javier.xyz/cohesive-colors/
+#### http://www.colourco.de/
 
